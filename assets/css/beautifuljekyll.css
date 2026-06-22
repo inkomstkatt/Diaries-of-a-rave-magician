@@ -576,6 +576,10 @@ footer .footer-custom-content {
   height: 100%;
   text-align: center;
   display: none;
+  border-radius: 50%;
+  box-shadow: 0 0 0.5rem rgba(0, 0, 0, .8);
+  -webkit-box-shadow: 0 0 0.3125rem rgba(0, 0, 0, .8);
+  -moz-box-shadow: 0 0 0.5rem rgba(0, 0, 0, .8);
 }
 .post-preview .post-image-small img {
   max-width: 6.25rem;
