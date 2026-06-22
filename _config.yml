@@ -122,13 +122,13 @@ excerpt_length: 50
 feed_show_excerpt: true
 
 # Whether or not to show a list of tags below each post preview in the feed page
-feed_show_tags: true
+feed_show_tags: false
 
 # Add a search button to the navbar
 post_search: true
 
 # Add a button in the footer to edit the current page. Only works if your website is hosted on GitHub
-edit_page_button: true
+edit_page_button: false
 
 # Allow sub-menu items (second-level navigation menu items) to be longer than the top-level menu
 # If this setting is off, then long sub-menu words might get cut off
@@ -242,7 +242,7 @@ footer-hover-col: "#0085A1"
 # (2) Install the giscus app in your repository (details at https://giscus.app),
 # (3) Fill in *all* the parameters below
 # See more details about giscus and each of the following parameters at https://giscus.app
-#giscus:
+giscus:
   repository: inkomstkatt/Diaries-of-a-rave-magician
   repository-id: R_kgDOSwb7x
   category: Announcements # Category name of your GitHub Discussion posts
