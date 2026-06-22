@@ -242,7 +242,7 @@ footer-hover-col: "#0085A1"
 # (2) Install the giscus app in your repository (details at https://giscus.app),
 # (3) Fill in *all* the parameters below
 # See more details about giscus and each of the following parameters at https://giscus.app
-#giscus:
+giscus:
   repository: inkomstkatt/Diaries-of-a-rave-magician
   repository-id: R_kgDOSwb7x
   category: Announcements # Category name of your GitHub Discussion posts
